@@ -59,8 +59,8 @@
         "noT_cAse SenSItiVe"
     ],
     "email": "admin@test.mojaalagevai.eu.cc",
-    "password": "720048",
-    "save_txt": true,
+    "password": "720048720048",
+    "save_txt": false,
     "discounted_only": false,
     "use_browser_cookies": false,
     "course_update_threshold_months": 24
